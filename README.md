@@ -1,6 +1,6 @@
 # HTTP/1.1 server
 
-## 0. Introduction
+### 0.1 Introduction
 
 This is a simple HTTP client that works on HTTP/1.1. 
 Currently it only handles simple GET and POST requests.
